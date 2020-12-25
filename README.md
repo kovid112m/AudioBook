@@ -1,2 +1,2 @@
 # AudioBook
-I created an audiobook reader using python modules
+This is an audiobook reader built using python modules
