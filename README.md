@@ -1,2 +1,2 @@
 # AudioBook
-This is an audiobook reader built using python modules
+Listen to your favourite books anytime using this Audiobook reader built using python
